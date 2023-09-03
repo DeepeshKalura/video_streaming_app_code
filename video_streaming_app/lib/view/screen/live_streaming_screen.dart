@@ -4,7 +4,7 @@ import 'package:icons_plus/icons_plus.dart';
 
 import 'package:video_player/video_player.dart';
 
-import '../../theme/colors.dart';
+import '../../util/colors.dart';
 
 class LiveStreamingScreen extends StatefulWidget {
   final List tags;

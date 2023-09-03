@@ -4,7 +4,7 @@ import 'package:carousel_slider/carousel_slider.dart';
 import 'package:icons_plus/icons_plus.dart';
 
 import '../../controller/json/discover_json.dart';
-import '../../theme/colors.dart';
+import '../../util/colors.dart';
 
 class DiscoverScreen extends StatefulWidget {
   const DiscoverScreen({Key? key}) : super(key: key);

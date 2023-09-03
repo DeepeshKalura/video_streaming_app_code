@@ -3,7 +3,7 @@ import 'package:icons_plus/icons_plus.dart';
 // import 'package:flutter_icons/flutter_icons.dart';
 
 import '../../controller/json/following_json.dart';
-import '../../theme/colors.dart';
+import '../../util/colors.dart';
 import 'live_streaming_screen.dart';
 
 class FollowingScreen extends StatefulWidget {

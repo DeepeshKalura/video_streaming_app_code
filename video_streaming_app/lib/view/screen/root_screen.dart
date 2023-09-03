@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:icons_plus/icons_plus.dart';
 
-import '../../theme/colors.dart';
+import '../../util/colors.dart';
 import 'browser_screen.dart';
 import 'discovery_screen.dart';
 import 'following_screen.dart';
