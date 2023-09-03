@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "H2D+XhJJ+QxgN60mTb60ij+QSFo24fko5euyaYkR0tA=",
+  "Source": "video_stream_api",
+  "BasePath": "_content/video_stream_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
