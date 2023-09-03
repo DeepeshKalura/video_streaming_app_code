@@ -7,6 +7,7 @@ import 'discovery_screen.dart';
 import 'following_screen.dart';
 
 class RootScreen extends StatefulWidget {
+  static const String routeName = '/root-screen';
   const RootScreen({Key? key}) : super(key: key);
 
   @override
