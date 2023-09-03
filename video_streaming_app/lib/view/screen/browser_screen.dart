@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:icons_plus/icons_plus.dart';
 
-import '../controller/json/browser_json.dart';
-import '../controller/json/following_json.dart';
-import '../theme/colors.dart';
+import '../../controller/json/browser_json.dart';
+import '../../controller/json/following_json.dart';
+import '../../theme/colors.dart';
 
 class BrowseScreen extends StatefulWidget {
   const BrowseScreen({Key? key}) : super(key: key);
