@@ -1,6 +1,6 @@
 module video_streaming_server
 
-go 1.21.0
+go 1.21
 
 require (
 	github.com/AgoraIO-Community/go-tokenbuilder v1.3.0
